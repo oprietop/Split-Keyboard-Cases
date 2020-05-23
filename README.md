@@ -1,8 +1,7 @@
 # Split Keyboard cases 
-Modifications on some well known split keybord cases for my purposes
-  - Top plates with Hybrid Cherry MX/Alps support
-  - Top plates with Only Alps Support
-  - Using a third plate to add tilt on the Let's Split and the Crkbd  
+Modifications on some well known split keybord cases for my purposes:
+  - Adding Hybrid Cherry MX/Alps support and Alps Only support
+  - Using a third plate to add tilt on the Let's Split and the Crkbd (really love the ergodash approach)
   
 ![](split_cases.png)  
 
