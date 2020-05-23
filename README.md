@@ -24,9 +24,9 @@ Modifications on some well known split keybord cases for my purposes
 * The top plates will work with the standard bottom plate.
 
 # Links
-* [Crkbd](https://github.com/foostan/crkbd) - The Crkbd keyboard and caser
-* [Ergodash](https://github.com/omkbd/ErgoDash) - The Ergodash keyboard and cases
-* [Let's Split!](https://github.com/keebio/lets-split-levinson-case) - Let's Split and Levinson case
+* [Crkbd](https://github.com/foostan/crkbd) - The Crkbd keyboard and cases.
+* [Ergodash](https://github.com/omkbd/ErgoDash) - The Ergodash keyboard and cases.
+* [Let's Split!](https://github.com/keebio/lets-split-levinson-case) - Let's Split and Levinson case.
 
 # Thanks
 * To the original creators
