@@ -1,5 +1,5 @@
 # Split Keyboard cases 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![](split_cases.png)
 
 Modifications on some well known split keybord cases for my purposes
   - Top plates with Hybrid Cherry MX/Alps support
