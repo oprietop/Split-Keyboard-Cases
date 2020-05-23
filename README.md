@@ -11,7 +11,7 @@ Modifications on some well known split keybord cases for my purposes:
 * Added clearance on the [top](images/ergodash_clearance_1.jpg) and [bottom/foot](images/ergodash_clearance_2.jpg) plates for a problematic screw.
 * The top plate will work with the standard bottom/foot plates.
 
-## Let's Split
+## Let's Split!
 ![](images/lets_split.jpg)
 * Hybrid Cherry MX/Alps and Alps Only support top plates.
 * Extra [foot](images/lets_split_tilt.jpg) plate.
