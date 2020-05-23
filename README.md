@@ -3,7 +3,9 @@ Modifications on some well known split keybord cases for my purposes
   - Top plates with Hybrid Cherry MX/Alps support
   - Top plates with Only Alps Support
   - Using a third plate to add tilt on the Let's Split and the Crkbd  
+  
 ![](split_cases.png)  
+
 ## Ergodash
 ![](images/ergodash.jpg)
 * Hybrid Cherry MX/Alps and Alps Only support top plates.
