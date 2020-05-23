@@ -8,6 +8,9 @@ Modifications on some well known split keybord cases for my purposes
   - Top plates with Only Alps Support
   - Using a third plate to add tilt on the Let's Split and the Crkbd
 
+# Ergodash
+* Added clearance on the [top](images/ergodash_clearance_1.jpg) and [bottom/foot](images/ergodash_clearance_1.jpg) plates for a problematic screw.
+
 # Links
 
 * [Crkbd](https://github.com/foostan/crkbd) - The Crkbd keyboard and caser
