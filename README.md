@@ -21,6 +21,7 @@ Modifications on some well known split keybord cases for my purposes:
 ![](images/crkbd.jpg)
 * Hybrid Cherry MX/Alps and Alps Only support top plates.
 * The top plates will work with the standard bottom plate.
+* Also an Alps Only Top/Bottom plates mean for tilting.
 
 # Links
 * [Crkbd](https://github.com/foostan/crkbd) - The Crkbd keyboard and cases.
